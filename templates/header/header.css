@@ -1,0 +1,155 @@
+header{
+    
+    height: 40px;
+    width: 1332px;
+    background-color: rgb(255, 255, 255);
+    float:left;
+    
+}
+a { text-decoration: none; }
+
+#logo{
+width: 182px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+float: left;
+
+display : flex;
+align-items : center;
+}
+#logo_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Imprint MT Shadow;
+	text-align:left;
+	font-size:26.169923782348633px;
+	letter-spacing:0;
+    margin-left: 3px;
+    
+
+}
+
+
+#home{
+
+width: 100px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+float: left;
+
+display : flex;
+align-items : center;
+}
+
+#home_link_paragaraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    font-weight: bold;
+    
+   
+}
+
+
+#new{
+width: 182px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#new_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#new_icon{
+    margin-left: 10px;
+}
+
+#products{
+width: 182px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#products_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#products_icon{
+    margin-left: 10px;
+}
+
+#feedback{
+    width: 182px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+
+    display : flex;
+    align-items : center;
+
+}
+#feedback_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 30px;
+}
+#feedback_icon{
+    margin-left: 10px;
+}
+
+#events{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    float:right;
+
+    display : flex;
+    align-items : center;
+
+}
+#events_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 5px;
+}
+#events_icon{
+    margin-left: 10px;
+}
+#events_beta_icon{
+    margin-left: 1px;
+}
+
+.overall_container{
+    width: 1332px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,272 @@
+body{
+    width: auto;
+    height: auto;
+    background-image: url('images_index/gradient_copy.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+header{
+    
+    height: 40px;
+    width: 1332px;
+    float: left;
+    
+}
+a { text-decoration: none; }
+
+#logo{
+width: 182px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+}
+#logo_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Imprint MT Shadow;
+	text-align:left;
+	font-size:26.169923782348633px;
+	letter-spacing:0;
+    margin-left: 3px;
+    
+
+}
+
+
+#home{
+
+width: 100px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+}
+
+#home_link_paragaraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    font-weight: bold;
+    
+   
+}
+
+
+#new{
+width: 182px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#new_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#new_icon{
+    margin-left: 10px;
+}
+
+#products{
+width: 182px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#products_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#products_icon{
+    margin-left: 10px;
+}
+
+#feedback{
+    width: 182px;
+    height: 40px;
+    float: left;
+
+    display : flex;
+    align-items : center;
+
+}
+#feedback_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 30px;
+}
+#feedback_icon{
+    margin-left: 10px;
+}
+
+#events{
+    width: 140px;
+    height: 40px;
+    float:right;
+
+    display : flex;
+    align-items : center;
+
+}
+#events_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 5px;
+}
+#events_icon{
+    margin-left: 10px;
+}
+#events_beta_icon{
+    margin-left: 1px;
+}
+
+.overall_container{
+    width: 1332px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#maintenance{
+    float: left;
+    width: 1332px;
+    height: 43px;
+    background-color:yellow;;
+    text-align: center;
+    
+	overflow: hidden;
+    
+
+}
+#maintenance_marquee{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-top: 10px;
+
+    
+}
+
+
+#message{
+    
+    width:1332px;
+    height: 340px;
+    float: left;
+    
+    
+}
+#pelton_desc_div{
+    float: left;
+    width:564px;
+	height:319px;
+    margin-top: 8px;
+    margin-left: 13px;
+    
+}
+#pelton_desc{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+
+    font-weight:normal;
+
+}
+#illustration_div{
+    width:540px;
+	height:332px;
+    float:right;
+    
+    margin-top: 4px;
+    margin-right: 13px;
+    left:0px;
+	top:0px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+	background-image:url(images_index/rectangle_20.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+    overflow: hidden;
+}
+
+#mission{
+    
+    width:1332px;
+    height: 525px;
+    float: left;
+    
+    
+}
+#mission_title{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:44px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#mission_paragraph{ 
+	color:rgba(0, 0, 0, 1);
+	
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#mission_illustration{
+    margin-left: 268px;
+    margin-top: 50px;
+}
+/*products*/
+#products{
+    float: left;
+    text-align: center;
+    background-color: bisque;
+    width:1332px ;
+    height: 199px;
+}
+
+

@@ -1,0 +1,23 @@
+
+#maintenance{
+    float: left;
+    width: 1332px;
+    height: 43px;
+    background-color:yellow;;
+    text-align: center;
+    
+	overflow: hidden;
+
+}
+#maintenance_marquee{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-top: 10px;
+    
+    
+    
+}

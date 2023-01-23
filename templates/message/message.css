@@ -1,0 +1,44 @@
+
+#message{
+    
+    width:1332px;
+    height: 340px;
+    float: left;
+    
+}
+#pelton_desc_div{
+    float: left;
+    width:564px;
+	height:319px;
+    margin-top: 8px;
+    margin-left: 13px;
+    
+}
+#pelton_desc{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+
+    font-weight:normal;
+
+}
+#illustration_div{
+    width:540px;
+	height:332px;
+    float:right;
+    
+    margin-top: 4px;
+    margin-right: 13px;
+    left:0px;
+	top:0px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+	background-image:url(images/rectangle_20.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+    overflow: hidden;
+}

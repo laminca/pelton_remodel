@@ -1,0 +1,33 @@
+*build pelton wireframe
+*build pelton website representation
+*build index page template
+    *build header
+    *build message
+    *build mission
+    *build maintenance
+    *build products
+    *build footer
+    *build copyright
+        *update year to 2023
+build finished index page
+    finished header
+        refit header sizes
+    *finished message
+    *finished maintenance
+    *finished mission
+    finished products
+        refit sizes involved
+    finished footer
+    finished copyright
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Re-establish links
+finished website
