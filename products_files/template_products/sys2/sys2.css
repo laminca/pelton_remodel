@@ -1,0 +1,55 @@
+#system2{
+    float: left;
+    width: 1332px;
+    height: 301px;
+}
+#system2_title{
+    
+    width: 700px;
+    float: left;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+
+    font-family:Inter;
+	font-size:30px;
+	letter-spacing:0;
+    color:rgba(0, 0, 0, 1);
+
+}
+
+
+#system2_list{
+    
+    width: 510px;
+    height: 176px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    clear: left;
+    
+    font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+}
+#system2_image{
+    background-color: rgb(173, 66, 173);
+    width: 492px;
+    height: 278px;
+    float: right;
+    margin-top: 10px;
+    margin-right:20px ;
+    
+    background-color:rgba(80.49591422080994, 243.31249594688416, 223.7744915485382, 1);
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	background-image:url(images/biro_exam.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+

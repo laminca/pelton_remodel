@@ -1,0 +1,50 @@
+#form_body{
+
+    width: 1182px; 
+    height: 692px;
+    background-color: aqua;
+}
+
+#categories_body{
+
+    width: 408px; 
+    height: 118px;
+    background-color: brown;
+    float: left;
+
+
+}
+#category_container{
+    width: 408px; 
+    height:313px ;
+    background-color:darkcyan ;
+    float: left;
+}
+#comments_body{
+    width: 605px ;
+    height: 313px ;
+    background-color: rgb(162, 0, 151);
+    float: right;
+
+}
+
+#contacts_body{
+    width: 548px ;
+    height: 328px ;
+    background-color: chartreuse;
+    float: left;
+}
+#button_area{
+    width: 605px;
+    height: 328px ;
+    background-color:darksalmon;
+    float: right;
+    
+}
+#inner_button_area{
+    width: 247px;
+    height: 174px;
+    background-color: darkkhaki;
+    
+    
+}

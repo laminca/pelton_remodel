@@ -1,0 +1,786 @@
+body{
+    width: auto;
+    height: auto;
+    background-image: url('images/gradient_copy.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+header{
+    
+    height: 40px;
+    width: 1332px;
+   
+    
+}
+a { text-decoration: none; }
+
+#logo{
+width: 182px;
+height: 40px;
+
+float: left;
+
+display : flex;
+align-items : center;
+}
+#logo_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Imprint MT Shadow;
+	text-align:left;
+	font-size:26.169923782348633px;
+	letter-spacing:0;
+    margin-left: 3px;
+    
+
+}
+
+
+#home{
+
+width: 100px;
+height: 40px;
+
+float: left;
+
+display : flex;
+align-items : center;
+}
+
+#home_link_paragaraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    font-weight: bold;
+    
+   
+}
+
+
+#new{
+width: 182px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#new_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#new_icon{
+    margin-left: 10px;
+}
+
+#products{
+width: 182px;
+height: 40px;
+float: left;
+
+display : flex;
+align-items : center;
+
+}
+#products_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+}
+#products_icon{
+    margin-left: 10px;
+}
+
+#feedback{
+    width: 182px;
+    height: 40px;
+    float: left;
+
+    display : flex;
+    align-items : center;
+
+}
+#feedback_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 30px;
+}
+#feedback_icon{
+    margin-left: 10px;
+}
+
+#events{
+    width: 140px;
+    height: 40px;
+    float:right;
+
+    display : flex;
+    align-items : center;
+
+}
+#events_link_paragraph{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-left: 5px;
+}
+#events_icon{
+    margin-left: 10px;
+}
+#events_beta_icon{
+    margin-left: 1px;
+}
+
+.overall_container{
+    width: 1332px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*  MAINTENANCE  */
+
+#maintenance{
+    float: left;
+    width: 1332px;
+    height: 43px;
+    background-color:yellow;;
+    text-align: center;
+    
+	overflow: hidden;
+
+}
+#maintenance_paragraph{
+    color:rgba(0, 0, 0, 1);	
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+    margin-top: 7px;
+
+    font-weight: bold;
+}
+
+/*  WELCOME  */
+
+
+#welcome{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 32px;
+
+    
+}
+
+#welcome_marquee{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+
+/* INTRODUCTION */
+#intro{
+    float: left;
+    width: 1332px;
+    height: 451px;
+}
+#intro_title { 
+	color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#intro_text{
+ 
+        color:rgba(0, 0, 0, 1);
+
+        font-family:Inter;
+        text-align:left;
+        font-size:25px;
+        letter-spacing:0;
+        padding-left: 30px;
+        padding-top: 10px;
+        
+
+}
+
+#intro_image{
+
+    width:436px ;
+    height: 306px;
+    margin-top: 20px;
+    margin-left: 269px;
+
+}
+
+/*  SYSTEM 1  */
+#system1{
+    float: left;
+    width: 1332px;
+    height: 301px;
+}
+#system1_title{
+    
+    width: 700px;
+    float: left;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+
+    font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+
+#system1_list{
+    
+    width: 510px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    clear: left;
+    
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+#system1_image{
+
+    width:498px;
+	height:278px;
+    float: right;
+    margin-top: 10px;
+    margin-right:20px ;
+    
+    border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	background-image:url(images/rectangle_8.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+/* SYSTEM 2  */	
+#system2{
+    float: left;
+    width: 1332px;
+    height: 301px;
+
+}
+#system2_title{
+    
+    width: 700px;
+    float: left;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+
+    font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+
+#system2_list{
+    
+    width: 510px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    clear: left;
+    
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+#system2_image{
+
+    width:498px;
+	height:278px;
+    float: right;
+    margin-top: 10px;
+    margin-right:20px ;
+    
+    border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-image:url(images/cash_1.png);
+
+	
+}
+
+/*  SYSTEM 3  */
+#system3{
+    
+    float: left;
+    width: 1332px;
+    height: 301px;
+
+}
+#system3_title{
+    
+    width: 700px;
+    float: left;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+
+    font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+
+#system3_list{
+    
+    width: 510px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    clear: left;
+    
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+#system3_image{
+
+    width:498px;
+	height:278px;
+    float: right;
+    margin-top: 10px;
+    margin-right:20px ;
+    
+    border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-image:url(images/m_pesa_1.png);
+
+	
+}
+
+/*  FOOTER  */
+
+footer{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 311px;
+    background-color:#838383;
+    padding-top: 15px;
+
+}
+a{text-decoration: none;}
+#footer_group1{
+    height: 287px;
+    width:221px ;
+    float: left;
+    padding-top: 15px;
+    margin-left: 10px;
+
+}
+
+#logo_pelton_footer { 
+	
+	width: 220px;
+	height:56px;
+    float: left;
+	
+}
+#footer_logo { 
+	width:56px;
+	height:56px;
+	float: left;
+}
+#footer_pelton_logo_footer_text { 
+	color:rgb(0, 0, 0);
+	width:69px;
+	height:22px;
+	font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+	float: left;
+	font-weight: bold;
+	padding-left: 2px;
+	padding-top: 10.5px;
+
+}
+
+#pelton_footer_text { 
+    color:rgb(255, 255, 255);
+    width:209px;
+    height:217px;
+    font-family:Inter;
+    text-align:left;
+    font-size:15px;
+    letter-spacing:0;
+    font-weight: bold;
+    padding-left: 20px;
+    
+}
+
+#footer_group2{
+    height: 287px;
+    width:323px ;
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+#footer_useful_links{ 
+	width:323px ;
+}
+#footer_useful_links_text{
+    color:rgba(255, 255, 255, 1);
+	font-family:Inter;
+	font-size:25px;
+	letter-spacing:0;
+    width:323px ;
+    text-align: left;
+    padding-left: 40px;
+    
+}
+#footer_useful_links_line{
+width:323px ;
+border-bottom: 2.5px dashed #000;
+height:2.5px;
+}
+
+#footer_feedback_inquiry{
+    width: 323px;
+    padding-top: 20px;
+    
+    
+}
+#footer_feedback_inquiry_text { 
+	color:rgba(255, 255, 255, 1);
+	width:150px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    float: left;
+    padding-left: 30px;
+    font-weight: bold;
+
+}
+#footer_feedback_inquiry_icon{
+    width: 9px;
+    height: 14px;
+    float: left;
+
+    margin-top: 2px;
+    margin-left: 70px;
+}
+
+#footer_products{
+    width: 323px;
+    padding-top: 30px;
+    
+    
+}
+#footer_products_text { 
+	color:rgba(255, 255, 255, 1);
+	width:150px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    float: left;
+    padding-left: 30px;
+    font-weight: bold;
+
+}
+#footer_products_icon{
+    width: 9px;
+    height: 14px;
+    float: left;
+
+    margin-top: 2px;
+    margin-left: 70px;
+}
+
+#footer_new{
+    width: 323px;
+    padding-top: 30px;
+    
+    
+}
+#footer_new_text { 
+	color:rgba(255, 255, 255, 1);
+	width:150px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    float: left;
+    padding-left: 30px;
+    font-weight: bold;
+
+}
+#footer_new_icon{
+    width: 9px;
+    height: 14px;
+    float: left;
+
+    margin-top: 2px;
+    margin-left: 70px;
+}
+
+#footer_mail{
+    width: 323px;
+    padding-top: 30px;
+    
+    
+}
+#footer_mail_text { 
+	color:rgba(255, 255, 255, 1);
+	width:150px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    float: left;
+    padding-left: 30px;
+    font-weight: bold;
+
+}
+#footer_mail_icon{
+    width: 9px;
+    height: 14px;
+    float: left;
+
+    margin-top: 2px;
+    margin-left: 70px;
+}
+
+#footer_group3{
+    height: 287px;
+    width:323px ;
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+
+#footer_contact_us{ 
+	width:323px ;
+}
+#footer_contact_us_text{
+    color:rgba(255, 255, 255, 1);
+	font-family:Inter;
+	font-size:25px;
+	letter-spacing:0;
+    width:323px ;
+    text-align: left;
+    padding-left: 70px;
+    
+}
+#footer_contact_us_line{
+width:323px ;
+border-bottom: 2.5px dashed #000;
+height:2.5px;
+}
+#footer_telephone{
+    width: 280px;
+}
+#footer_telephone_title{
+    font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    color:rgba(255, 255, 255, 1);
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#footer_telephone_text{
+    color:rgba(255, 255, 255, 1);
+	width:258px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+#footer_fax{
+    width: 280px;
+}
+#footer_fax_title{
+    font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    color:rgba(255, 255, 255, 1);
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#footer_fax_text{
+    color:rgba(255, 255, 255, 1);
+	width:258px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+#footer_postal_address{
+    width: 280px;
+}
+#footer_postal_address_title{
+    font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    color:rgba(255, 255, 255, 1);
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#footer_postal_address_text{
+    color:rgba(255, 255, 255, 1);
+	width:258px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+#footer_group4{
+    height: 287px;
+    width:323px ;
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+
+#footer_mail_footer{ 
+	width:323px ;
+}
+#footer_mail_footer_text{
+    color:rgba(255, 255, 255, 1);
+	font-family:Inter;
+	font-size:25px;
+	letter-spacing:0;
+    width:323px ;
+    text-align: left;
+    padding-left: 70px;
+    
+}
+#footer_mail_footer_line{
+width:323px ;
+border-bottom: 2.5px dashed #000;
+height:2.5px;
+}
+
+#footer_electronic_mail{
+    width: 280px;
+}
+#footer_electronic_mail_title{
+    font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    color:rgba(255, 255, 255, 1);
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#footer_electronic_mail_text{
+    color:rgba(255, 255, 255, 1);
+	width:298px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+/* COPYRIGHT */
+
+
+#copyright{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 40px;
+    
+    
+}
+#copyright_paragraph{
+
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:right;
+	font-size:16px;
+	letter-spacing:0;
+    
+    font-weight: bold;
+}
+

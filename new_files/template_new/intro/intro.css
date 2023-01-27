@@ -1,0 +1,39 @@
+#intro{
+    float: left;
+    width: 1332px;
+    height: 451px;
+}
+#intro_title { 
+	color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#intro_text{
+ 
+        color:rgba(0, 0, 0, 1);
+
+        font-family:Inter;
+        text-align:left;
+        font-size:25px;
+        letter-spacing:0;
+        padding-left: 30px;
+        padding-top: 10px;
+        
+
+}
+
+#intro_image{
+
+    width:436px ;
+    height: 306px;
+    margin-top: 20px;
+    margin-left: 269px;
+
+}

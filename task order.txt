@@ -9,16 +9,65 @@
     *build footer
     *build copyright
         *update year to 2023
-build finished index page
-    finished header
-        refit header sizes
+*build finished index page
+    *finished header
+        *refit header sizes
     *finished message
     *finished maintenance
     *finished mission
-    finished products
-        refit sizes involved
-    finished footer
-    finished copyright
+    *finished products
+        *refit sizes involved
+            //we had named elements with similar identifiers leading to errors
+    *finished footer
+    *finished copyright
+
+*build new page template
+    *build header
+    *build maintenance
+    *build welcome
+    *build intro
+    *build systems 1,2,3
+    *build footer
+    *build copyright
+*build finished new page
+    *build header
+    *build maintenance
+    *build welcome
+    *build intro
+    *build systems 1
+    *build systems 2
+    *build systems 3
+    *build footer
+    *build copyright
+
+*build product page template
+    *build header
+    *build maintenance
+    *build welcome
+    *build intro
+    *build systems 1,2,3,4,5
+    *build footer
+    *build copyright
+*build finished product page
+    *build header
+    *build maintenance
+    *build welcome
+    *build systems 1
+    *build systems 2
+    *build systems 3
+    *build systems 4
+    *build systems 5
+    *build footer
+    *build copyright
+*build feedback page template
+    *build header
+    *build maintenance
+    *build welcome
+    
+
+
+   
+*build finished feedback page    
 .
 .
 .
@@ -28,6 +77,5 @@ build finished index page
 .
 .
 .
-.
-Re-establish links
+Re-Integrate links
 finished website

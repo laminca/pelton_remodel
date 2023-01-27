@@ -1,0 +1,136 @@
+header{
+    
+    height: fit-content;
+    width: 1332px;
+    background-color: chartreuse;
+}
+.overall_container{
+    width: 1332px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#fringes{
+    width: 182px;
+height: 45px;
+background-color: chartreuse;
+
+float: left;
+}
+#last{
+    width: 58px;
+    height: 45px;
+    background-color: chartreuse;
+    
+    float:right;
+
+}
+
+#maintenance{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 32px;
+    background-color: rgb(202, 197, 50);
+
+}
+#welcome{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 32px;
+    background-color: rgb(177, 119, 47);
+
+}
+
+#system1{
+    background-color: rgb(63, 176, 63);
+    float: left;
+    width: 1332px;
+    height: 301px;
+}
+#system1_title{
+    background-color: coral;
+    width: 700px;
+    float: left;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+
+}
+#system1_title_text{
+    background-color: aqua;
+}
+
+#system1_list{
+    background-color:rgb(52, 94, 218);
+    width: 510px;
+    height: 176px;
+    margin-top: 15px;
+    margin-left: 15px;
+    float: left;
+    clear: left;
+    
+}
+#system1_image{
+    background-color: rgb(173, 66, 173);
+    width: 492px;
+    height: 278px;
+    float: right;
+    margin-top: 10px;
+    margin-right:20px ;
+    
+}
+
+footer{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 311px;
+    background-color: darkgreen;
+}
+#group1{
+    height: 287px;
+    width:221px ;
+    background-color: rgb(255, 146, 127);
+    float: left;
+    padding-top: 15px;
+    margin-left: 20px
+
+}
+#group2{
+    height: 287px;
+    width:323px ;
+    background-color: rgb(41, 25, 13);
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+#group3{
+    height: 287px;
+    width:323px ;
+    background-color: aquamarine;
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+#group4{
+    height: 287px;
+    width:323px ;
+    background-color: rgb(110, 194, 2);
+    float: left;
+    padding-top: 15px;
+    margin-left: 30px
+
+}
+#lower_footer{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 32px;
+    background-color: rgb(11, 168, 196);
+
+}

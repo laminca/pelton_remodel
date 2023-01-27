@@ -1,0 +1,20 @@
+
+#maintenance{
+    float: left;
+    width: 1332px;
+    height: 43px;
+    background-color:yellow;;
+    text-align: center;
+    
+	overflow: hidden;
+
+}
+#maintenance_paragraph{
+    color:rgba(0, 0, 0, 1);	
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+    margin-top: 7px;
+
+    font-weight: bold;
+}

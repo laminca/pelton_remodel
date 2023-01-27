@@ -1,0 +1,23 @@
+
+#welcome{
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 32px;
+
+    
+}
+
+
+#welcome_marquee{
+    color:rgba(0, 0, 0, 1);
+	font-family:Inter;
+	font-size:16px;
+	letter-spacing:0;
+
+    font-weight: bold;
+    margin-top: 10px;
+    
+    
+    
+}
